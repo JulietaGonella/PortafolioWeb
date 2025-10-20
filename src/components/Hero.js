@@ -2,7 +2,7 @@ function Hero() {
   return (
     <section className="hero">
       <div className="hero-content">
-        <img src="/profile.jpg" alt="Julieta Gonella" /> {/* o .jpeg */}
+        <img src="../profile.jpg" alt="Julieta Gonella" /> {/* o .jpeg */}
         <div>
           <h2>¡Hola! Soy Julieta Gonella 👋</h2>
           <p>
