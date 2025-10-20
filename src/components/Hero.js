@@ -1,11 +1,8 @@
-import profile from '../assets/profile.jpeg';
-
-
 function Hero() {
   return (
     <section className="hero">
       <div className="hero-content">
-        <img src={profile} alt="Julieta Gonella" />
+        <img src="/profile.jpg" alt="Julieta Gonella" /> {/* o .jpeg */}
         <div>
           <h2>¡Hola! Soy Julieta Gonella 👋</h2>
           <p>
