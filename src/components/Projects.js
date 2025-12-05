@@ -15,10 +15,9 @@ function Projects() {
         'https://github.com/JulietaGonella/ms1-client-generator.git',
         'https://github.com/JulietaGonella/ms2-server.git',
         'https://github.com/JulietaGonella/ms3-webhook.git',
-        'https://github.com/JulietaGonella/ms4-api.git',
         'https://github.com/JulietaGonella/ms4-api.git'
       ],
-      demo: 'https://frontend-clima-d17l.vercel.app/'
+      demo: '' // 🔹 vacío = no mostrar botón
     }
   ];
 
